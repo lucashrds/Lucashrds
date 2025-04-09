@@ -2,7 +2,9 @@
 **Desenvolvedor`JAVA`**
 
 Me chamo Lucas Henrique sou desenvolvedor. Graduado em gestão de TI. Estou em busca de desafio para alimentar minha experiência
+
 🔹 Habilidades Técnicas: Java, POO, Spring Framework, Git/GitHub, SQL.
+
 🔹 Interesses: Desenvolvimento Back-End, Arquitetura de Software, Resolução de Problemas Complexos.
 
 Aberto a oportunidades e colaborações que desafiem meus conhecimentos e agreguem valor à minha trajetória profissional. Vamos conectar e construir algo incrível juntos!
