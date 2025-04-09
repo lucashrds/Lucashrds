@@ -1,16 +1,37 @@
-## Hi there 👋
+# Lucas Henrique
+**Desenvolvedor`JAVA`**
 
-<!--
-**lucashrds/Lucashrds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Lucas Henrique sou desenvolvedor. Graduado em gestão de TI. Estou em busca de desafio para alimentar minha experiência
+🔹 Habilidades Técnicas: Java, POO, Spring Framework, Git/GitHub, SQL.
+🔹 Interesses: Desenvolvimento Back-End, Arquitetura de Software, Resolução de Problemas Complexos.
 
-Here are some ideas to get you started:
+Aberto a oportunidades e colaborações que desafiem meus conhecimentos e agreguem valor à minha trajetória profissional. Vamos conectar e construir algo incrível juntos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Lucashrds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashrds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
