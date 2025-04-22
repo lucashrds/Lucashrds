@@ -4,6 +4,7 @@
 Me chamo Lucas Henrique sou desenvolvedor. Graduado em gestão de TI. Estou em busca de desafio para alimentar minha experiência
 
 🔹 Habilidades Técnicas: Java, POO, Spring Framework, Git/GitHub, SQL.
+
 🔹 Atualmente estou me aperfeiçoando em linguagem Python.
 
 Aberto a oportunidades e colaborações que desafiem meus conhecimentos e agreguem valor à minha trajetória profissional. Vamos conectar e construir algo incrível juntos!
